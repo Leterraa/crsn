@@ -1,0 +1,31 @@
+body {
+  background: #c0c885c1;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+a {
+  color: rgba(5, 72, 65, 0.744);
+  text-decoration: none;
+}
+footer a {
+  margin: 0 10px;
+  color: rgba(5, 72, 65, 0.744);
+}
+
+a:visited {
+  color: chocolate;
+}
